@@ -23,3 +23,5 @@
   4. *Execute the main script*
      ```bash
        python main.py
+## Flow Diagram
+![FLow Diagram](images/diagram.png)
