@@ -12,5 +12,14 @@
 
 ## 🚀 How to Run the Project
   1. *Clone the Repository*
-   ```bash
-      git clone https://github.com/avinashrkrk/user-behavior-based-on-mobile-usage.git
+     ```bash
+        git clone https://github.com/avinashrkrk/user-behavior-based-on-mobile-usage.git
+  2. *Navigate to the folder*
+     ```bash
+        cd user-behavior-based-on-mobile-usage
+  3. *Install Dependencies*
+     ```bash
+       pip install -r requirements.txt
+  4. *Execute the main script*
+     ```bash
+       python main.py
